@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1234,
+    "name": "Josh Pizza",
+    "description": "Okay Pizza",
+    "address": "123 N Pizza Lane",
+    "city": "Chicago",
+    "state": "IL",
+    "zip_code": "60606",
+    "country": "USA"
+  }
+]
